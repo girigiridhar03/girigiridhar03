@@ -57,21 +57,6 @@ Strong in **React, TypeScript, and modern JavaScript**, currently expanding into
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=girigiridhar03&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girigiridhar03&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girigiridhar03&layout=compact&theme=dark" />
-</p>
-
----
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/girigiridhar03
