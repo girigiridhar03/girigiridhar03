@@ -51,13 +51,6 @@ Strong in **React, TypeScript, and modern JavaScript**, currently expanding into
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=girigiridhar03&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=girigiridhar03&layout=compact&theme=dark)
-
----
-
 ## 📫 Connect With Me
 - GitHub: https://github.com/girigiridhar03
 - LinkedIn: https://linkedin.com/in/giridhar-damarasinga-72aa172b1
