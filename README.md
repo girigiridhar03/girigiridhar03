@@ -30,7 +30,7 @@ Strong in **React, TypeScript, and modern JavaScript**, currently expanding into
 ### Backend (Learning)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
 
