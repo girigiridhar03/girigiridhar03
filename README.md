@@ -52,11 +52,6 @@ Strong in **React, TypeScript, and modern JavaScript**, currently expanding into
 
 ---
 
-## 🌐 Portfolio
-🔗 https://giridhar-portfolio.vercel.app/
-
----
-
 ## 📫 Connect With Me
 - GitHub: https://github.com/girigiridhar03
 - LinkedIn: https://linkedin.com/in/giridhar-damarasinga-72aa172b1
